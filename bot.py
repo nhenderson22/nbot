@@ -4,7 +4,7 @@ import requests
 import json
 
 
-dtoken = 'OTcwMzQyODA2NzY3OTM5NjA2.Ym6kKQ.vLPy8NFmWD9UAdiUZ7pjxMqyylo'
+dtoken = ''
 
 commandInfo = """$pkid- gets the id of the specified pokemon \n$pkability - sends the pokemon standard ability\n$pkhability - sends hidden ability of pokemon
 \n $pksprite - sends a picture of the sprite"""
