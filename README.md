@@ -14,3 +14,4 @@ Here is where I will document all of the new things I have learned whilst writin
 5. Markdown. I had to learn markdown syntax to write up this document and will prove useful in writing future readmes.
 
 ## Thoughts
+This wasnt meant to be a serious project at all, but rather a glimpse into working with apis in order to learn how to better design one when i make my own.
